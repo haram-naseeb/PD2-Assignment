@@ -4,7 +4,7 @@ main()
 {
 string name;
 int weight,day;
-cout << "Enter your name" <<endl;
+cout << "Enter the name of person" <<endl;
 cin>>name;
 cout << "Enter the target weight loss in kilograms:"<<endl;
 cin>>weight;
